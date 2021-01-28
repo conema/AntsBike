@@ -80,7 +80,7 @@ if __name__ == "__main__":
                 {"file": "dataset/bergamo9.txt", "best": 10200},
                 {"file": "dataset/parma10.txt", "best": 25400},
                 {"file": "dataset/bergamo10.txt", "best": 10800}]
-
+    
     datasets += [{"file": "dataset/1Bari30.txt", "best": 14600},
                  {"file": "dataset/2Bari20.txt", "best": 15700},
                  {"file": "dataset/3Bari10.txt", "best": 20600},
